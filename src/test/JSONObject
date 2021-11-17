@@ -1,0 +1,26 @@
+{
+    "result": {
+        "identification": {
+            "transactionid": "Merchant Assigned ID",
+            "uniqueid": "d91ac8ff6e9945b8a125d6e725155fb6",
+            "shortid": "0000.0005.6238",
+            "customerid": "customerid 12345"
+        },
+        "payment": {
+            "amount": "2400",
+            "currency": "EUR",
+            "descriptor": "order number"
+        },
+        "level": 0,
+        "code": 0,
+        "method": "creditcard",
+        "type": "preauthorization",
+        "message": "approved",
+        "merchant": {
+            "key1": "Value1",
+            "key0": "Value0"
+        }
+    },
+    "id": 1,
+    "jsonrpc": "2.0"
+}
